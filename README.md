@@ -12,7 +12,7 @@ pip3 install -r requirements.txt
 To use, simply replace the `url` variable with your webhook and execute the following:
 
 ```
-python stealer.py
+python main.py
 ```
 
 # Making an executable

